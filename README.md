@@ -19,7 +19,6 @@ Ensure you have the following libraries installed:
 - TensorFlow or PyTorch
 - Numpy
 - Matplotlib
-- Other dependencies as specified in `requirements.txt`
 
 ### Installation
 
